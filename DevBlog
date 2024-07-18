@@ -1,0 +1,27 @@
+DevBlog/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── models.py
+│   └── views.py
+├── templates/
+│   ├── base.html
+│   └── index.html
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+├── tests/
+│   ├── __init__.py
+│   └── test_app.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
